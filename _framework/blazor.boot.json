@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "AstroCalculator",
   "resources": {
-    "hash": "sha256-r9CeS18bMCstKnb+AnnepB2MQq4IrRsWrlwuGMLBYRo=",
+    "hash": "sha256-SdU1IBi4vwvhYldFdWHkgNdNTSoW5Gq342frS4nyWjY=",
     "fingerprinting": {
-      "AstroCalculator.j43eu139i8.wasm": "AstroCalculator.wasm",
+      "AstroCalculator.4nrz2lqx50.wasm": "AstroCalculator.wasm",
       "Microsoft.AspNetCore.Components.Forms.yro7n2ks67.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.bsknd2p7nx.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.el74qat3gm.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -72,7 +72,7 @@
       "System.Runtime.InteropServices.JavaScript.x50649m5t2.wasm": "sha256-VS4CSyZJNRAj+SrJqgbXBFWlGMlNDgM4rbwJ6gTH5qg="
     },
     "assembly": {
-      "AstroCalculator.j43eu139i8.wasm": "sha256-U/kUSU2FRqtwd/5YUyVUJcMiBij8huD+CbdTVR00mNU=",
+      "AstroCalculator.4nrz2lqx50.wasm": "sha256-UPOQM09DcMibekeG6wc0mawZqX1BTY4tr81/N33g2KA=",
       "Microsoft.AspNetCore.Components.Forms.yro7n2ks67.wasm": "sha256-0odpWWEsu1W2VxGsRp3N61v4AlK9rfF8sNXtEz3YdQo=",
       "Microsoft.AspNetCore.Components.bsknd2p7nx.wasm": "sha256-BXLlLHChNmKdO9DI5w9RViMSR0sg/IXOG6gHaxPoygQ=",
       "Microsoft.AspNetCore.Components.Web.el74qat3gm.wasm": "sha256-clEflWhed/5bQ1kuiKRVcHoB6zlyLRgYI050IQKqq/A=",

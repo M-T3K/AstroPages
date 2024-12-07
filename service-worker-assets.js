@@ -1,13 +1,13 @@
 self.assetsManifest = {
-  "version": "NqJQvjao",
+  "version": "ny9Wny14",
   "assets": [
     {
       "hash": "sha256-3ly137hZlJiqj1SaVL1eyU87NWYhnyjt9Ospm/VMG7w=",
       "url": "AstroCalculator.styles.css"
     },
     {
-      "hash": "sha256-U/kUSU2FRqtwd/5YUyVUJcMiBij8huD+CbdTVR00mNU=",
-      "url": "_framework/AstroCalculator.j43eu139i8.wasm"
+      "hash": "sha256-UPOQM09DcMibekeG6wc0mawZqX1BTY4tr81/N33g2KA=",
+      "url": "_framework/AstroCalculator.4nrz2lqx50.wasm"
     },
     {
       "hash": "sha256-0odpWWEsu1W2VxGsRp3N61v4AlK9rfF8sNXtEz3YdQo=",
@@ -174,7 +174,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.gl65p7jdfx.wasm"
     },
     {
-      "hash": "sha256-GUz97QkSMDSN3HM0mxclAXNwWkXRh0PgWF5Mneqpv1Y=",
+      "hash": "sha256-L92nXL7Dopg7fLmstWipt6CcoM74lA5mYE+1zLTESok=",
       "url": "_framework/blazor.boot.json"
     },
     {
